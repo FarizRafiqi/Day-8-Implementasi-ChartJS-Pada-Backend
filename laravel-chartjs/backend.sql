@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Sep 24, 2023 at 03:42 PM
+-- Generation Time: Sep 25, 2023 at 02:20 PM
 -- Server version: 8.0.30
 -- PHP Version: 7.4.33
 
@@ -308,7 +308,7 @@ INSERT INTO `users` (`id`, `name`, `email`, `password`, `created_at`, `updated_a
 (4, 'new2', 'new2@mail.com', '$2y$10$.uPawK1oIkLugbxTuyUgaeHAcPqbTn.ZxIEGhFChy1B8kQYoVNIVW', '2022-07-19 05:22:11', '2022-07-19 05:22:11', 2),
 (5, 'qwe', 'sad@asd', '$2y$10$2LD69jCbG7U7Qe2rlkou.OKY08QewTT6O23ffWfOq1Y5qd1.I86Z2', '2022-10-31 05:47:45', '2022-10-31 05:47:45', 1),
 (6, 'Michael', 'toro@mail.comqwe', '$2y$10$9jvATfwpOVmQ4BAOActWi.wl.9lIeMXsqI69Hu.Ir/wVcHGeuehy2', '2022-11-10 05:08:55', '2022-11-10 05:09:38', 2),
-(7, 'MinMax', 'admin@gmail.com', '$2y$10$xTuEQFkUlagUa6IAqWzdc.9V48NY9COHt0dftEznVaBOXojoLB0kG', '2023-09-19 13:35:43', '2023-09-20 13:42:38', 1);
+(7, 'MinMax', 'minmax@gmail.com', '$2y$10$xTuEQFkUlagUa6IAqWzdc.9V48NY9COHt0dftEznVaBOXojoLB0kG', '2023-09-19 13:35:43', '2023-09-25 18:20:03', 1);
 
 --
 -- Indexes for dumped tables
